@@ -36,42 +36,25 @@ DHANYA P M
 
 ## 🎯 About Me
 
-YOUR_SHORT_INTRODUCTION_PARAGRAPH
-
-Example:
-Passionate Full Stack Developer specializing in scalable backend systems.
-Love building efficient applications and exploring AI/ML integration.
+Currently improving my programming skills, and creating web applications.
 
 ---
 
 ## 🛠️ Tech Stack & Skills
 
 ### 🔥 Programming Languages
-• Language 1  
-• Language 2  
-• Language 3  
+• Python 
 
 ### 🚀 Backend
-• Framework 1  
-• Framework 2  
-• Framework 3  
+• Django Framework    
 
-### 💅 Frontend
-• React / Vue / Angular  
-• HTML / CSS  
-• Tailwind / Bootstrap  
+### 💅 Frontend 
+• HTML / CSS    
 
 ### 🗄️ Databases
-• PostgreSQL  
-• MySQL  
-• MongoDB  
+• SQLite 
 
 ### ⚙️ DevOps & Tools
-• Git  
-• Docker  
-• AWS  
-• Linux  
-
 ---
 
 ## 📊 GitHub Stats
@@ -123,12 +106,7 @@ Love building efficient applications and exploring AI/ML integration.
 
 ## 🤝 Open to Collaborations
 
-I’m open to working on:
 
-• Open Source Projects  
-• AI/ML Projects  
-• Web Applications  
-• Backend Systems  
 
 ---
 
